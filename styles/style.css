@@ -108,7 +108,7 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
     .b1 {
         width: 30%;
     }
